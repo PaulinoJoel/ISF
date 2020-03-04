@@ -1,5 +1,17 @@
 html,body{
-background: #CD5C5C;
-font-weight:bold ;
+background: white;
+font-family: "Arial"
+
+
+}
+
+li{
+list-style: none;
+float: left;
+padding-left: 2em;
+}
+li:hover{
+color: blue;
+cursor: pointer;
 
 }
